@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="pdp.jpg"
+              src="https://raw.githubusercontent.com/Agoudjiliss/portfolio_issam/main/components/pdp.jpg"
               alt="issam agoudjil"
               width="192"
               height="192"
