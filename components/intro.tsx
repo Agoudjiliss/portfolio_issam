@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import art from "./pdp.jpg";
 import React from "react";
 import { motion } from "framer-motion";
 import Link from "next/link";
@@ -31,7 +32,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://raw.githubusercontent.com/Agoudjiliss/portfolio_issam/main/components/pdp.jpg"
+              src={art}
               alt="issam agoudjil"
               width="192"
               height="192"
