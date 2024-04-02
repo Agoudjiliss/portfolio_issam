@@ -39,14 +39,7 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "2023 - Present",
   },
-  {
-    title: "Backend Developer",
-    location: "alger, algeria ",
-    description:
-        "As a backend developer, I have accumulated 2 years of professional experience, crafting robust and scalable solutions for web applications and systems. My responsibilities included designing and implementing server-side logic, integrating front-end components, and ensuring high performance and responsiveness. I am proficient in programming languages such as JavaScript (Node.js), Python, and C. My expertise extends to managing both MongoDB and SQL databases. Throughout my journey, I have consistently demonstrated a passion for innovation and problem-solving.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2020- 2022",
-  },
+
   {
     title: "internship at the CNAS ",
     location: "alger, algeria",
@@ -54,6 +47,15 @@ export const experiencesData = [
       "Enriching internship at the National Social Insurance Fund, within the General Management. Skills development in SQL, Oracle, database management and cybersecurity",
     icon: React.createElement(CgWorkAlt),
     date: "2023-2024",
+  },
+  
+    {
+    title: "Backend Developer",
+    location: "alger, algeria ",
+    description:
+        "As a backend developer, I have accumulated 2 years of professional experience, crafting robust and scalable solutions for web applications and systems. My responsibilities included designing and implementing server-side logic, integrating front-end components, and ensuring high performance and responsiveness. I am proficient in programming languages such as JavaScript (Node.js), Python, and C. My expertise extends to managing both MongoDB and SQL databases. Throughout my journey, I have consistently demonstrated a passion for innovation and problem-solving.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2020- 2022",
   },
 ] as const;
 
