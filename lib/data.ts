@@ -39,7 +39,6 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "2023 - Present",
   },
-
   {
     title: "internship at the CNAS ",
     location: "alger, algeria",
@@ -48,7 +47,6 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "2023-2024",
   },
-  
     {
     title: "Backend Developer",
     location: "alger, algeria ",
