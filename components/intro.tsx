@@ -95,7 +95,7 @@ export default function Intro() {
           href="/CV.pdf"
           download
         >
-          Download CV{" "}
+          Download CV{"./app/issam-agoudjil_CV.pdf"}
           <HiDownload className="opacity-60 group-hover:translate-y-1 transition" />
         </a>
 
